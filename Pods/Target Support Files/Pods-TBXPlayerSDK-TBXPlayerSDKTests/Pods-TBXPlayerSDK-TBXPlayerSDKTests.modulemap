@@ -1,0 +1,6 @@
+framework module Pods_TBXPlayerSDK_TBXPlayerSDKTests {
+  umbrella header "Pods-TBXPlayerSDK-TBXPlayerSDKTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
